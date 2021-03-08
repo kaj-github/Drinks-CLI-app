@@ -1,0 +1,9 @@
+/.venv
+/.vscode
+/.idea
+
+*.txt
+*.csv
+*.yml
+
+/importingmysql.py
